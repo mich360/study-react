@@ -1,16 +1,22 @@
 .container {
-    background-color: #f2f2f2;
-    padding: 20px;
-    border: 1px solid #5dee88;
-  }
-  
-  
-  h1.myComponentTitle {
-    font-size: 24px;
-    color: #810869;
-  }
-  p.customText{
-    font-size: 16px;
-    color: #098f84;
-  }
-  
+  background-color: #f2f2f2;
+  padding: 20px;
+  border: 1px solid #5dee88;
+}
+
+h1.myComponentTitle {
+  font-size: 24px;
+  color: #810869;
+}
+
+p.customText {
+  font-size: 16px;
+  color: #098f84;
+}
+
+.lottieAnimation {
+  width: 50%; /* アニメーションの幅を半分に指定 */
+  height: auto; /* 高さを自動調整する */
+}
+
+
