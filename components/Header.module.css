@@ -1,0 +1,15 @@
+.container {
+    z-index: 7;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 5xl;
+    /* items-center: justify-between; */
+    font-family: mono;
+    font-size: small;
+    display: flex;
+  }
+  
+  /* // 他のスタイルの定義...
+  
+   */

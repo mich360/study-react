@@ -6,6 +6,7 @@ import animationData from './animation.json';
 
 const Animation = () => {
   return <Lottie animationData={animationData} />;
+  
 };
 
 export default Animation;
