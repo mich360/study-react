@@ -1,4 +1,3 @@
-//import React from 'react';
 import Image from 'next/image';
 import IndexPage from './index';
 import Link from 'next/link';
@@ -45,27 +44,6 @@ export default function Home() {
 
 
 
-
-// // app/page.tsx
-// import React, { ReactNode } from 'react';
-// import Footer from '../components/footer';
-// // ...
-
-// type PageProps = {
-//   children: ReactNode;
-// };
-
-// function Page({ children }: PageProps) {
-//   return (
-//     <div>
-//       {/* <Header /> */}
-//       <main>{children}</main>
-//       <Footer />
-//     </div>
-//   );
-// }
-
-// export default Page;
 
 
 
